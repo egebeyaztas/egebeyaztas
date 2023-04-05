@@ -13,4 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=egebeyaztas&style=flat-square&color=blue" alt=""/>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=egebeyaztas&style=flat-square&color=blue" alt=""/>
+</div>
+
