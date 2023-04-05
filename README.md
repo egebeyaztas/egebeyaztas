@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: Social Media Manager, UI Designer and Guitar Player in free time.
 
-- :mailbox:You can find me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egebeyaztas/)
+- :mailbox:You can find me: [![Linkedin Badge](https://img.shields.io/badge/-egebeyaztas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egebeyaztas/)
 
 ---
 
